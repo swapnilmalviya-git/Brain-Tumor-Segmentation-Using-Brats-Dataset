@@ -11,7 +11,7 @@ To train ResUnet-2D model:
 python3 code/train_ResUnet_2d.py
 
 
-The dataset can be downloded from:
+The dataset can be downloaded from:
 http://braintumorsegmentation.org/
 
 
